@@ -1,11 +1,3 @@
-// Pin connections:
-// A5(SCL)  ->  RP_SCL
-// A4(SDA)  <-> RP_SDA
-// D2       <-  ~CHG
-// D10(RX)  <-  RP_RXD
-// D11(TX)  ->  RP_TXD
-// GND      <-> GND
-
 #include <Wire.h>
 
 // target device:HTU21D(i2c temperature sensor)
