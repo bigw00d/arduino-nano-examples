@@ -1,6 +1,0 @@
-{
-    "board": "arduino:avr:nano",
-    "configuration": "cpu=atmega328",
-    "sketch": "htu21df\\htu21df.ino",
-    "port": "COM11"
-}

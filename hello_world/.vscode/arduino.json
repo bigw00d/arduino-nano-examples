@@ -1,7 +1,0 @@
-{
-    "sketch": "hello_world.ino",
-    "port": "COM11",
-    "board": "arduino:avr:nano",
-    "output": "../hello_world_build",
-    "configuration": "cpu=atmega328"
-}
